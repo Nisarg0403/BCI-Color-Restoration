@@ -226,17 +226,6 @@ These datasets are used for understanding EEG signal processing and validating f
 
 ---
 
-# 👥 Team
-
-| Name | Responsibility |
-|------|----------------|
-| Nisarg Vakharia | Project Lead, EEG Processing, Documentation |
-| Member 2 | Signal Processing |
-| Member 3 | Algorithms |
-| Member 4 | Source Localization & Brain Stimulation |
-
----
-
 # ⚠ Research Disclaimer
 
 This repository represents an ongoing academic research project.
